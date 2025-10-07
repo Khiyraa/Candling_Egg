@@ -1,0 +1,9 @@
+{
+  "python-envs.pythonProjects": [
+    {
+      "path": "is_candling/components/candling",
+      "envManager": "ms-python.python:venv",
+      "packageManager": "ms-python.python:pip"
+    }
+  ]
+}
